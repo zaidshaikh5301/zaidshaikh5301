@@ -114,7 +114,7 @@ PHP • MySQL • HTML • CSS • JavaScript
 
 ## 📫 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/zaid-shaikh-823961345/)
+- LinkedIn: https://www.linkedin.com/in/zaid-shaikh-823961345/
 - Email: zaidshaikh3543@gmail.com
 
 ---
