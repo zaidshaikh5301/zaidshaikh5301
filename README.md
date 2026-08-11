@@ -1,36 +1,105 @@
 <h1 align="center">Hi 👋, I'm Zaid Shaikh</h1>
-<h3 align="center">Frontend Developer specializing in React, TypeScript, and modern UI development.</h3>
+<h3 align="center">Frontend Developer | React | TypeScript | JavaScript | REST APIs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidshaikh5301&label=Profile%20views&color=0e75b6&style=flat" alt="zaidshaikh5301" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidshaikh5301" alt="zaidshaikh5301" /></a> </p>
-
-- 🔭 I’m currently working on [TaskFlow — Modern Task Management Dashboard](https://github.com/zaidshaikh5301/TaskFLow)
-
-- 🌱 I’m currently learning **Advanced React, TypeScript, TanStack Query, modern frontend architecture, REST API integration, and full-stack development.**
-
-- 👯 I’m looking to collaborate on [JobSphere — React Job Portal](https://github.com/zaidshaikh5301/JobSphere)
-
-- 🤝 I’m looking for help with [Building scalable React applications and improving frontend architecture](https://github.com/zaidshaikh5301)
-
-- 👨‍💻 All of my projects are available at [https://github.com/zaidshaikh5301](https://github.com/zaidshaikh5301)
-
-- 💬 Ask me about **React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, REST APIs, and frontend development.**
-
-- 📫 How to reach me **zaidshaikh3543@gmail.com**
-
-- ⚡ Fun fact **I turn coffee into code and bugs into features ☕🐛**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zaid-shaikh-823961345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid-shaikh-823961345" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/zaidshaikh5301">GitHub</a> •
+  <a href="https://linkedin.com/in/zaid-shaikh-823961345">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidshaikh5301&show_icons=true&locale=en&layout=compact" alt="zaidshaikh5301" /></p>
+I'm a frontend developer focused on building responsive, user-friendly web applications with React, TypeScript, JavaScript, and modern UI technologies.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidshaikh5301&show_icons=true&locale=en" alt="zaidshaikh5301" /></p>
+I enjoy turning real-world requirements into practical applications with clean component structure, reusable UI, REST API integration, authentication, and responsive design.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidshaikh5301&" alt="zaidshaikh5301" /></p>
+## Current Focus
+
+- Building React and TypeScript applications
+- REST API integration and authentication
+- Component-based frontend architecture
+- Responsive and accessible UI development
+- Modern state management and data-fetching patterns
+- Full-stack JavaScript development
+
+## Featured Projects
+
+### 🚀 TaskFlow
+**React + TypeScript + REST API**
+
+A modern task management application featuring JWT authentication, protected workflows, task CRUD operations, status management, profile functionality, and a responsive dashboard.
+
+**Repository:** https://github.com/zaidshaikh5301/TaskFLow
+
+### 💼 JobSphere
+**React + Vite + Node.js + Express + MongoDB**
+
+A full-stack job portal with separate candidate and recruiter workflows, job discovery, applications, recruiter job management, authentication, dashboards, and REST API integration.
+
+**Repository:** https://github.com/zaidshaikh5301/jobsphere
+
+### 🍔 Foodies
+**PHP + MySQL + Bootstrap**
+
+An online food ordering platform with authentication, menu browsing, cart management, checkout, order workflows, and an administration dashboard.
+
+**Repository:** https://github.com/zaidshaikh5301/foodies
+
+### ✅ Task Manager
+**React + JavaScript + Vite + Axios**
+
+A responsive task management application demonstrating JWT authentication, task CRUD operations, profile management, file uploads, protected API communication, and REST API integration.
+
+**Repository:** https://github.com/zaidshaikh5301/task-manager
+
+## Technical Skills
+
+### Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+</p>
+
+### Tools & Concepts
+
+- Git & GitHub
+- REST APIs
+- Axios
+- JWT Authentication
+- React Router
+- Context API
+- Responsive Web Design
+- Component-Based Architecture
+- API-driven Applications
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidshaikh5301&show_icons=true&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidshaikh5301&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+## Let's Connect
+
+- GitHub: https://github.com/zaidshaikh5301
+- LinkedIn: https://linkedin.com/in/zaid-shaikh-823961345
+- Email: zaidshaikh3543@gmail.com
+
+---
+
+<p align="center">Building useful interfaces, learning continuously, and improving one project at a time. 🚀</p>
