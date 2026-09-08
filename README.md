@@ -1,105 +1,472 @@
-<h1 align="center">Hi 👋, I'm Zaid Shaikh</h1>
-<h3 align="center">Frontend Developer | React | TypeScript | JavaScript | REST APIs</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/zaidshaikh5301">GitHub</a> •
-  <a href="https://linkedin.com/in/zaid-shaikh-823961345">LinkedIn</a>
+# 👋 Hi, I'm Mohamad Zaid Shaikh
+
+### 🚀 Frontend Developer • React.js • TypeScript • Full-Stack Development
+
+**I build modern, responsive and scalable web applications with clean architecture and real-world functionality.**
+
+<p>
+  <a href="https://github.com/zaidshaikh5301">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zaid-shaikh-823961345/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_URL">
+    <img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=zaidshaikh5301&label=Profile%20Views&color=0e75b6&style=flat" />
 
-I'm a frontend developer focused on building responsive, user-friendly web applications with React, TypeScript, JavaScript, and modern UI technologies.
+</div>
 
-I enjoy turning real-world requirements into practical applications with clean component structure, reusable UI, REST API integration, authentication, and responsive design.
+---
 
-## Current Focus
+## 🧑‍💻 About Me
 
-- Building React and TypeScript applications
-- REST API integration and authentication
-- Component-based frontend architecture
-- Responsive and accessible UI development
-- Modern state management and data-fetching patterns
-- Full-stack JavaScript development
+I'm a **BCA graduate and aspiring software engineer** focused on building practical, production-oriented web applications.
 
-## Featured Projects
+My strongest area is **frontend development**, particularly building React applications with TypeScript, reusable components, API integration and responsive UI.
 
-### 🚀 TaskFlow
-**React + TypeScript + REST API**
+I also work with backend technologies to understand and build complete applications — from the UI and API layer to authentication, databases and real-time communication.
 
-A modern task management application featuring JWT authentication, protected workflows, task CRUD operations, status management, profile functionality, and a responsive dashboard.
+```text
+Frontend        → React • TypeScript • JavaScript • Tailwind CSS
+Backend         → Node.js • Express.js • PHP
+Database        → MongoDB • MySQL
+APIs            → REST • Axios • Swagger • JWT
+Real-Time       → Socket.IO
+Architecture    → MVVM • Modular Architecture
+Tools           → Git • GitHub • Vite • Postman • VS Code
+```
 
-**Repository:** https://github.com/zaidshaikh5301/TaskFLow
+### 🎯 Career Focus
 
-### 💼 JobSphere
-**React + Vite + Node.js + Express + MongoDB**
+I'm actively interested in:
 
-A full-stack job portal with separate candidate and recruiter workflows, job discovery, applications, recruiter job management, authentication, dashboards, and REST API integration.
+* Frontend Developer roles
+* React Developer roles
+* TypeScript Developer roles
+* Full-Stack Developer opportunities
+* Software Developer internships
+* Freelance web development
 
-**Repository:** https://github.com/zaidshaikh5301/jobsphere
+---
 
-### 🍔 Foodies
-**PHP + MySQL + Bootstrap**
+# 🧰 Tech Stack
 
-An online food ordering platform with authentication, menu browsing, cart management, checkout, order workflows, and an administration dashboard.
-
-**Repository:** https://github.com/zaidshaikh5301/foodies
-
-### ✅ Task Manager
-**React + JavaScript + Vite + Axios**
-
-A responsive task management application demonstrating JWT authentication, task CRUD operations, profile management, file uploads, protected API communication, and REST API integration.
-
-**Repository:** https://github.com/zaidshaikh5301/task-manager
-
-## Technical Skills
+<div align="center">
 
 ### Frontend
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,bootstrap" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql" />
 </p>
 
-### Tools & Concepts
+### Tools & Technologies
 
-- Git & GitHub
-- REST APIs
-- Axios
-- JWT Authentication
-- React Router
-- Context API
-- Responsive Web Design
-- Component-Based Architecture
-- API-driven Applications
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidshaikh5301&show_icons=true&hide_border=true" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidshaikh5301&layout=compact&hide_border=true" alt="Top languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
-## Let's Connect
-
-- GitHub: https://github.com/zaidshaikh5301
-- LinkedIn: https://linkedin.com/in/zaid-shaikh-823961345
-- Email: zaidshaikh3543@gmail.com
+</div>
 
 ---
 
-<p align="center">Building useful interfaces, learning continuously, and improving one project at a time. 🚀</p>
+# 🚀 Featured Projects
+
+## 🥇 CodeBit — Developer Collaboration SaaS
+
+> **A full-stack developer collaboration platform designed to help developers discover projects, find collaborators and build software together.**
+
+### 💡 The Problem
+
+Developers often struggle to find suitable projects and collaborators while keeping communication, tasks and project activity organized in one place.
+
+### 💻 The Solution
+
+**CodeBit** brings project discovery, applications, team management, tasks, discussions, notifications and GitHub integration into a single developer-focused platform.
+
+### ✨ Core Features
+
+| Feature               | Implementation                       |
+| --------------------- | ------------------------------------ |
+| 🔐 Authentication     | JWT-based authentication             |
+| 👤 Developer Profiles | Developer discovery & profiles       |
+| 🔎 Project Discovery  | Browse and filter projects           |
+| 📨 Applications       | Apply / accept / reject workflow     |
+| 👥 Members            | Project membership management        |
+| 📋 Tasks              | Task creation, priorities & statuses |
+| 💬 Discussions        | Real-time project communication      |
+| ⚡ Real-Time           | Socket.IO                            |
+| 🔔 Notifications      | Project activity notifications       |
+| 🐙 GitHub             | GitHub integration                   |
+| 📊 Productivity       | Project progress tracking            |
+| 📚 API Docs           | Swagger / OpenAPI                    |
+
+### 🏗️ Architecture
+
+```text
+                         CODEBIT
+                            │
+             ┌──────────────┴──────────────┐
+             │                             │
+        FRONTEND                       BACKEND
+             │                             │
+      React + TypeScript             Node.js
+             │                             │
+       MVVM Architecture             Express.js
+             │                             │
+      TanStack Query                 Controllers
+             │                             │
+           Axios                     Services
+             │                             │
+       React Router                   Models
+             │                             │
+             └──────────────┬──────────────┘
+                            │
+                         MongoDB
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+          REST API                    Socket.IO
+              │                           │
+              └─────────────┬─────────────┘
+                            │
+                    Real-Time Collaboration
+```
+
+### 🧰 Tech Stack
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `React Router` `TanStack Query` `Axios` `Node.js` `Express.js` `MongoDB` `JWT` `Socket.IO` `Swagger` `GitHub API`
+
+### 📌 Development Status
+
+```text
+Foundation              ████████████████████ 100%
+Authentication          ████████████████████ 100%
+Developer System        ████████████████████ 100%
+Projects                ████████████████████ 100%
+Applications            ████████████████████ 100%
+Members                 ████████████████████ 100%
+Tasks                   ████████████████████ 100%
+Discussions             ████████████████████ 100%
+Notifications           ████████████████████ 100%
+GitHub Integration      ████████████████████ 100%
+Productivity            ████████████████████ 100%
+Production              ███████████░░░░░░░░░ 55%
+```
+
+<p>
+<a href="YOUR_CODEBIT_REPO">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR_CODEBIT_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🥈 TaskFlow — TypeScript Task Manager
+
+> A modern task management application demonstrating **React + TypeScript + REST API integration + CRUD operations**.
+
+### ✨ Features
+
+* ➕ Create tasks
+* 📋 View tasks
+* ✏️ Update tasks
+* 🗑️ Delete tasks
+* 🔄 Change task status
+* 🎯 Priority management
+* 🔍 Filtering
+* 🔌 API integration
+* 📱 Responsive UI
+
+### 🧰 Tech Stack
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Axios` `REST API`
+
+```text
+POST   /tasks
+GET    /tasks
+PATCH  /tasks/:id
+DELETE /tasks/:id
+PATCH  /tasks/:id/status
+```
+
+<p>
+<a href="YOUR_TASKFLOW_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR_TASKFLOW_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🥉 Jobsphere — Job Portal
+
+> A responsive job portal built with React, focused on creating a clean and intuitive recruitment experience.
+
+### ✨ Features
+
+* 🔎 Job discovery
+* 💼 Featured jobs
+* 📄 Job details
+* 📨 Application workflow
+* 🧩 Reusable React components
+* 📱 Responsive design
+* 🎨 Modern UI
+
+### 🧰 Tech Stack
+
+`React` `JavaScript` `Vite` `Tailwind CSS`
+
+<p>
+<a href="YOUR_JOBSPHERE_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR_JOBSPHERE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+---
+
+# 📦 Other Projects
+
+### 🍔 Food Ordering Website
+
+Full-stack food ordering platform with database-backed products, cart functionality, orders and online payment integration.
+
+**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `Razorpay`
+
+---
+
+### 🏠 House Rent Management System
+
+Web application for managing properties, tenants, rental records and payment information.
+
+**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+---
+
+### 🎪 Event Management System
+
+Event management application focused on event listings, users and participation.
+
+**Tech:** `Angular` `Node.js` `Express.js` `MongoDB`
+
+---
+
+### 🚗 CarShowcase
+
+Responsive vehicle showcase website designed with a modern visual interface.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 🛒 Hardware E-Commerce
+
+E-commerce platform for browsing computer hardware and managing products, carts and orders.
+
+**Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+---
+
+# 📊 Data Analysis
+
+## 🎬 Movie Rating Analysis
+
+Python-based exploratory data analysis project focused on discovering patterns and insights from movie-rating data.
+
+### 🔍 Work Performed
+
+* Data cleaning
+* Missing-value handling
+* Exploratory Data Analysis
+* Rating distribution
+* Genre analysis
+* Correlation analysis
+* Statistical exploration
+* Data visualization
+
+**Tech:** `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter Notebook`
+
+---
+
+# 🧠 What I Bring to a Team
+
+```text
+              ┌─────────────────────────┐
+              │     PRODUCT THINKING    │
+              └────────────┬────────────┘
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+     Clean UI          Clean Code       APIs
+          │                │                │
+          ↓                ↓                ↓
+    Responsive         Reusable         Integration
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
+                  Production Mindset
+```
+
+### My Development Principles
+
+* ♻️ Build reusable components
+* 🧩 Keep code modular
+* 📱 Design responsive interfaces
+* 🔐 Implement secure authentication
+* ⚡ Consider application performance
+* 🧠 Keep data flow predictable
+* 🛠️ Build APIs with clear contracts
+* 📚 Document APIs properly
+* 🧪 Test important functionality
+* 🚀 Think beyond "it works" toward "it scales"
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zaidshaikh5301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidshaikh5301&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zaidshaikh5301&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zaidshaikh5301&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidshaikh5301&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+React Advanced Patterns
+        ↓
+TypeScript
+        ↓
+Frontend Architecture
+        ↓
+Performance Optimization
+        ↓
+Backend Development
+        ↓
+Real-Time Applications
+        ↓
+Cloud & Deployment
+```
+
+I'm continuously improving my ability to build applications that are not only visually polished but also **maintainable, scalable and production-ready**.
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Become a professional React / Frontend Developer
+* [ ] Build and deploy production-grade SaaS applications
+* [ ] Strengthen advanced TypeScript skills
+* [ ] Improve system design knowledge
+* [ ] Contribute to open-source projects
+* [ ] Improve testing and CI/CD skills
+* [ ] Learn deeper backend architecture
+* [ ] Work with a professional development team
+
+---
+
+# 💼 Open to Opportunities
+
+<div align="center">
+
+### 🚀 Looking for my next opportunity
+
+I'm currently open to:
+
+**Frontend Developer • React Developer • Full-Stack Developer • Software Developer • Internship • Freelance**
+
+If you're hiring a developer who enjoys **learning, building and solving real problems**, I'd love to connect.
+
+<br>
+
+<a href="https://www.linkedin.com/in/zaid-shaikh-823961345/">
+<img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/zaidshaikh5301">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/zaid-shaikh-823961345/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Building → Learning → Improving → Shipping 🚀**
+
+</div>
