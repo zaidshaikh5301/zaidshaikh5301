@@ -410,10 +410,10 @@ I'm continuously improving my ability to build applications that are not only vi
 
 # 🎯 2026 Goals
 
-* [ ] Become a professional React / Frontend Developer
-* [ ] Build and deploy production-grade SaaS applications
-* [ ] Strengthen advanced TypeScript skills
-* [ ] Improve system design knowledge
+* [ y] Become a professional React / Frontend Developer
+* [ y] Build and deploy production-grade SaaS applications
+* [ y] Strengthen advanced TypeScript skills
+* [y ] Improve system design knowledge
 * [ ] Contribute to open-source projects
 * [ ] Improve testing and CI/CD skills
 * [ ] Learn deeper backend architecture
